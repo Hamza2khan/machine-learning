@@ -1,11 +1,11 @@
 # THE UNIVERSITY OF AZAD JAMMU & KASHMIR, MUZAFFARABAD  
 
-## 🏛 OPEN ENDED LAB - MACHINE LEARNING  
+## 🏛 ASSIGNMENT NO 1 - MACHINE LEARNING  
 **DEPARTMENT OF SOFTWARE ENGINEERING**  
 
 ### 📜 Submission Details  
 - **Submitted To:** Engr. Ahmed Khawaja  
-- **Submitted By:** Hamza Shahzad,Hasham Ahmed,Shams Tabraiz 
+- **Submitted By:** Hamza Shahzad, Hasham Ahmed ,Shams Tabraiz 
 - **Submitted On:** 30/02/2025  
 - **Semester:** 5th  
 - **Course Code:** SE-3105  

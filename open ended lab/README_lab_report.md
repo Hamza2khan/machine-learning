@@ -73,10 +73,10 @@ Precision: 0.97, Recall: 0.97, F1-Score: 0.97
 Confusion Matrix Available in Report  
 ```
 
-### **🔹 Tuned ANN Accuracy: 89.2%**  
+### **🔹 Tuned ANN Accuracy: 97.2%**  
 ```plaintext
 Best Parameters: {'hidden_layer_sizes': (128,), 'learning_rate_init': 0.001}  
-Precision: 0.89, Recall: 0.89, F1-Score: 0.89  
+Precision: 0.97, Recall: 0.97, F1-Score: 0.97  
 Confusion Matrix Available in Report  
 ```
 
